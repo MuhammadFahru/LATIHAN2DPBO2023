@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.rmd": "markdown",
+    "typeindex": "cpp",
+    "typeinfo": "cpp",
+    "ostream": "cpp"
+  }
+}
