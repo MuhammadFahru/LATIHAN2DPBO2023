@@ -1,4 +1,4 @@
-# Latihan 1 Praktikum DPBO
+# Latihan 2 Praktikum DPBO
 
 ## Janji
 
