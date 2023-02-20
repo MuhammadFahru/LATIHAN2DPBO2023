@@ -10,3 +10,15 @@ Bismillah Saya Muhammad Fahru Rozi [2108927] mengerjakan soal Latihan Praktikum 
 - Muhammad Fahru Rozi
 - Ilmu Komputer C1'21
 - Universitas Pendidikan Indonesia
+
+## Desain Program
+
+Dalam mengimplementasikan konsep Multi-level Inheritance saya menggunakan 3 Class yang terdiri dari:
+
+> Human
+> SivitasAkademik
+> Mahasiswa
+
+## Penjelasan Alur
+
+## Dokumentasi
