@@ -19,16 +19,16 @@ Dalam mengimplementasikan konsep Multi-level Inheritance saya menggunakan 3 Clas
 - SivitasAkademik
 - Mahasiswa
 
-### Di Class Human terdapat attribute:
+#### Class Human terdapat attribute:
 - NIK
 - Nama
 - Jenis Kelamin
 
-### Di Class SivitasAkademik terdapat attribute:
+#### Class SivitasAkademik terdapat attribute:
 - Asal Universitas
 - Email Edu
 
-### Di Class Mahasiswa terdapat attribute:
+#### Class Mahasiswa terdapat attribute:
 - NIM
 - Nama
 - Jenis Kelamin
