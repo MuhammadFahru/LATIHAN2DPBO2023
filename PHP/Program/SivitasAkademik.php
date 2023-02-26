@@ -7,7 +7,7 @@ class SivitasAkademik extends Human
     private $asal_universitas;
     private $email_edu;
 
-    public function __construct($nik, $nama, $gender, $asal_universitas, $email_edu)
+    public function __construct($nik = "", $nama = "", $gender = "", $asal_universitas = "", $email_edu = "")
     {
         parent::__construct($nik, $nama, $gender);
         $this->asal_universitas = $asal_universitas;

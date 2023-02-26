@@ -6,7 +6,7 @@ class SivitasAkademik(Human):
     __asal_universitas = ""
     __email_edu = ""
 
-    def __init__(self, nik, nama, gender, asal_universitas, email_edu):
+    def __init__(self, nik="", nama="", gender="", asal_universitas="", email_edu=""):
         super().__init__(nik, nama, gender)
         self.__asal_universitas = asal_universitas
         self.__email_edu = email_edu

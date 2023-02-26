@@ -6,7 +6,7 @@ class Human
     private $nama;
     private $gender;
 
-    public function __construct($nik, $nama, $gender)
+    public function __construct($nik = "", $nama = "", $gender = "")
     {
         $this->nik = $nik;
         $this->nama = $nama;

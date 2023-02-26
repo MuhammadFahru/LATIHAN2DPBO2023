@@ -4,7 +4,7 @@ class Human:
     __nama = ""
     __gender = ""
 
-    def __init__(self, nik, nama, gender):
+    def __init__(self, nik="", nama="", gender=""):
         self.__nik = nik
         self.__nama = nama
         self.__gender = gender

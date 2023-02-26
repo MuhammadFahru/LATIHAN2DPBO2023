@@ -8,7 +8,7 @@ class Mahasiswa extends SivitasAkademik
     private $prodi;
     private $fakultas;
 
-    public function __construct($nik, $nama, $gender, $asal_universitas, $email_edu, $nim, $prodi, $fakultas)
+    public function __construct($nik = "", $nama = "", $gender = "", $asal_universitas = "", $email_edu = "", $nim = "", $prodi = "", $fakultas = "")
     {
         parent::__construct($nik, $nama, $gender, $asal_universitas, $email_edu);
         $this->nim = $nim;
@@ -23,7 +23,7 @@ class Mahasiswa extends SivitasAkademik
 
     public function getNim()
     {
-        return $this->prodi;
+        return $this->nim;
     }
 
     public function setProdi($prodi)

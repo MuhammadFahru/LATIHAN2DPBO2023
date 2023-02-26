@@ -7,7 +7,7 @@ class Mahasiswa(SivitasAkademik):
     __prodi = ""
     __fakultas = ""
 
-    def __init__(self, nik, nama, gender, asal_universitas, email_edu, nim, prodi, fakultas):
+    def __init__(self, nik="", nama="", gender="", asal_universitas="", email_edu="", nim="", prodi="", fakultas=""):
         super().__init__(nik, nama, gender, asal_universitas, email_edu)
         self.__nim = nim
         self.__prodi = prodi
