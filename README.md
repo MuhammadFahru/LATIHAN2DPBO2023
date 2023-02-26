@@ -13,6 +13,8 @@ Bismillah Saya Muhammad Fahru Rozi [2108927] mengerjakan soal Latihan Praktikum 
 
 ## Desain Program
 
+![Design](https://user-images.githubusercontent.com/59097913/221392311-9263a5e9-38bc-4af5-b530-28b049242309.jpg)
+
 Dalam mengimplementasikan konsep Multi-level Inheritance saya menggunakan 3 Class yang terdiri dari:
 
 - Human
