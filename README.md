@@ -21,16 +21,16 @@ Dalam mengimplementasikan konsep Multi-level Inheritance saya menggunakan 3 Clas
 - SivitasAkademik
 - Mahasiswa
 
-#### Class Human terdapat attribute:
+#### Class **Human** terdapat attribute:
 - `string` NIK
 - `string` Nama
 - `string` Jenis Kelamin
 
-#### Class SivitasAkademik terdapat attribute:
+#### Class **SivitasAkademik** terdapat attribute:
 - `string` Asal Universitas
 - `string` Email Edu
 
-#### Class Mahasiswa terdapat attribute:
+#### Class **Mahasiswa** terdapat attribute:
 - `string` NIM
 - `string` Nama
 - `string` Jenis Kelamin
@@ -39,7 +39,9 @@ Dalam mengimplementasikan konsep Multi-level Inheritance saya menggunakan 3 Clas
 
 ## Penjelasan Alur
 
-...
+Alur program yang saya buat adalah sebagai berikut:
+
+1. Program dimulai dengan membuat class **Human**, yang memiliki 3 attribute yaitu `nik` `nama` `gender` serta memiliki method/function getter, setter, dan displayData
 
 ## Dokumentasi
 
