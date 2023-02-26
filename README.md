@@ -22,20 +22,20 @@ Dalam mengimplementasikan konsep Multi-level Inheritance saya menggunakan 3 Clas
 - Mahasiswa
 
 #### Class Human terdapat attribute:
-- NIK
-- Nama
-- Jenis Kelamin
+- `string` NIK
+- `string` Nama
+- `string` Jenis Kelamin
 
 #### Class SivitasAkademik terdapat attribute:
-- Asal Universitas
-- Email Edu
+- `string` Asal Universitas
+- `string` Email Edu
 
 #### Class Mahasiswa terdapat attribute:
-- NIM
-- Nama
-- Jenis Kelamin
-- Fakultas
-- Prodi
+- `string` NIM
+- `string` Nama
+- `string` Jenis Kelamin
+- `string` Fakultas
+- `string` Prodi
 
 ## Penjelasan Alur
 
