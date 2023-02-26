@@ -42,7 +42,9 @@ Dalam mengimplementasikan konsep Multi-level Inheritance saya menggunakan 3 Clas
 Alur program yang saya buat adalah sebagai berikut:
 
 1. Program dimulai dengan membuat class **Human**, yang memiliki 3 attribute yaitu `nik`, `nama`, dan `gender`. Class **Human** memiliki constructor serta method/function getter, setter, dan display data.
+
 2. Selanjutnya, buat class **SivitasAkademik** yang mewarisi class **Human**. Class **SivitasAkademik** memiliki 2 attribute yaitu `asal_universitas` dan `asal_universitas`. Class **SivitasAkademik** memiliki constructor serta method/function getter, setter, dan display data. Constructor pada class **SivitasAkademik** mengambil 5 parameters yaitu `nik`, `nama`, `gender`, `asal_universitas` dan `asal_universitas` dengan memanggil constructor parent nya juga yaitu class **Human**.
+
 3. Terakhir, buat class **Mahasiswa** yang mewarisi class **SivitasAkademik**. Class **Mahasiswa** memiliki 3 attribute yaitu `nim`, `prodi`, dan `fakultas`. Class **`nim`,** memiliki constructor serta method/function getter, setter, dan display data. Constructor pada class **Mahasiswa** mengambil 8 parameters yaitu `nik`, `nama`, `gender`, `asal_universitas`, `asal_universitas`, `nim`, `prodi`, dan `fakultas` dengan memanggil constructor parent nya juga yaitu class **SivitasAkademik** sekaligus turunan dari class **Human**.
 
 ## Dokumentasi
