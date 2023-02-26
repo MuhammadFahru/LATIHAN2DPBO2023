@@ -52,3 +52,34 @@ Dengan alur program dan struktur class seperti ini, sebuah object **Mahasiswa** 
 ## Dokumentasi
 
 ![image](https://user-images.githubusercontent.com/59097913/220079810-afbfa83c-c116-4f4a-b54c-b3a6ab7e7aad.png)
+
+## Run Program
+
+1. C++
+
+   ```sh
+   g++ *.cpp -o run && run
+   ```
+
+2. Java
+
+   ```sh
+   javac *.java
+   ```
+   
+   ```sh
+   java Main
+   ```
+
+3. PHP
+
+   ```sh
+   http://localhost/[directory]
+   ```
+
+4. Python
+
+   ```sh
+   py Main.py
+   ```
+   
